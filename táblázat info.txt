@@ -1,0 +1,14 @@
+table - táblázat
+tr - sor (table row)
+td - cella (table ) itt vannak az adatok
+
+caption - nevet adhatunk a táblázatnak
+
+thead - fejléc
+tr - a fejlécen belül a sor
+th - fejléc cellák
+
+tbody - a táblázat adatrészét tartalmazza
+ezen belül is tr-ek és td-k vannak, amelyek a konkrét adatot tartalmazzák
+
+tfoot - lezárása a táblázatnak, ebben is van tr és td. összesített infók szerepelhetnek itt a táblázatról
